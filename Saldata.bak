@@ -1,0 +1,5 @@
+'playerClothing', (1024, 6)
+'playerMaterials', (2048, 6)
+'playerVehicles', (1536, 6)
+'playerStats', (0, 93)
+'playerWeapons', (512, 6)
